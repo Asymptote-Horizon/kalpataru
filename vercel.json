@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/project",
+      "destination": "https://vercel.app",
+      "permanent": true
+    },
+    {
+      "source": "/video",
+      "destination": "https://youtube.com",
+      "permanent": true
+    }
+  ]
+}
