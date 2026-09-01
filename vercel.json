@@ -10,5 +10,11 @@
       "destination": "https://youtube.com",
       "permanent": true
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/web/$1"
+    }
   ]
 }
